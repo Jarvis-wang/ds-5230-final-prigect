@@ -13,6 +13,7 @@ Building Hierarchical Dirichlet Process model
 Building Latent Dirichlet Allocation model
 ### Data
 Our dataset is Lee Background Corpus. The text corpus evaluated by human judges contained 50 documents selected from the Australian Broadcasting Corporation’s news mail service, which provides text emails of headline stories. The documents varied in length from 51 to 126 words and covered several broad topics.
+[data_output](https://github.com/Jarvis-wang/ds-5230-final-prigect/blob/main/A-rules/L.txt)
 ### Association Rules
 In this step we decided to use R to calculate association rules. Because using R to calculate the society rules is much simpler than using Python. In R, we use the "read.transactions" function to read a text file exported from Python. Separate each sentence with a space to get each word. for example, “[1] {bushfire, forced, highlands, hill, homes, huge, hundreds, new, people, pushed, south, southern, strong, today, top, towards, town, vacation, wales, winds}”.
 ### K-means
