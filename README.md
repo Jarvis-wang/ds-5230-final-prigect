@@ -27,11 +27,11 @@ In this section, we first utilize the Silhouette Scores to make estimation on th
 ### LSI
 LSI is a mathematical implementation which helps classify and retrieve information on key phrases and concepts. The method to decompose the original matrix is to find out the eigenvector and use singular vector decomposition to simplify the representation by number of dimensions.
 
-[LSI]
+[LSI](https://github.com/Jarvis-wang/ds-5230-final-prigect/blob/main/LSI%20and%20LDA/lsi%2Blda%2Bwordcloud%2Bvisualization.py)
 ### LDA
 Latent Dirichlet allocation (LDA) is a generative statistical model that allows observations to be explained by unobserved groups.
 
-[LDA]
+[LDA](https://github.com/Jarvis-wang/ds-5230-final-prigect/blob/main/LSI%20and%20LDA/lsi%2Blda%2Bwordcloud%2Bvisualization.py)
 ### HDP
 HDP (short for Hierarchical Dirichlet Process) is actually an extension to the normal Latent Dirichlet Allocation according to its so-called hierarchical attributes. Specifically, it is a nonparametric Bayesian approach to clustering grouped data.
 
