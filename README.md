@@ -1,7 +1,7 @@
 # ds-5230-final-prigect
 ## Unsupervised Word-level Association and Text Clustering
 Zhewen Zhang, Hongyang Wang, Zhengyan Shi. 
-###Description
+### Description
 Using Apriori to build Association Rules
 Using kmeans to do Clustering Analysis
 Building Latent Semantic Indexing model
